@@ -1,0 +1,47 @@
+[
+  {
+    "ProductName": "Leaf Rake",
+    "ProductCode": "GDN-0011",
+    "ReleaseDate": "March 19, 2021",
+    "Description": "Leaf rake with 48-inch wooden handle.",
+    "Price": 19.95,
+    "StarRating": 3.2,
+    "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/applepiesmall.jpg"
+  },
+  {
+    "ProductName": "Garden Cart",
+    "ProductCode": "GDN-0023",
+    "ReleaseDate": "March 18, 2021",
+    "Description": "15 gallon capacity rolling garden cart",
+    "Price": 32.99,
+    "StarRating": 4.2,
+    "ImageUrl": "client/assets/images/garden_cart.png"
+  },
+  {
+    "ProductName": "Hammer",
+    "ProductCode": "TBX-0048",
+    "ReleaseDate": "May 21, 2021",
+    "Description": "Curved claw steel hammer",
+    "Price": 8.9,
+    "StarRating": 4.8,
+    "ImageUrl": "client/assets/images/hammer.png"
+  },
+  {
+    "ProductName": "Saw",
+    "ProductCode": "TBX-0022",
+    "ReleaseDate": "May 15, 2021",
+    "Description": "15-inch steel blade hand saw",
+    "Price": 11.55,
+    "StarRating": 3.7,
+    "ImageUrl": "client/assets/images/saw.png"
+  },
+  {
+    "ProductName": "Video Game Controller",
+    "ProductCode": "GMG-0042",
+    "ReleaseDate": "October 15, 2020",
+    "Description": "Standard two-button video game controller",
+    "Price": 35.95,
+    "StarRating": 4.6,
+    "ImageUrl": "client/assets/images/xbox-controller.png"
+  }
+]

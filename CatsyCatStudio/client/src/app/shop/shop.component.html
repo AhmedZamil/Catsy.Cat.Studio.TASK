@@ -1,0 +1,17 @@
+<div class="col-md-4" *ngFor="let pie of allPies">
+    <div class="card thumbnail">
+        <div class="card-body">
+            <img [src]="pie.imageThumbnailUrl" alt="">
+        </div>
+        <div class="card-footer caption">
+            <h4> <a [routerLink]="['/pies',pie.pieId]">{{pie.name}}</a> </h4>
+            <h3 class="pull-right">{{pie.price}}</h3>
+            <p>{{pie.shortDescription}}</p>
+        </div>
+        <p class="addToCart">
+            <a class="btn btn-primary goToCompare" [routerLink]="['/pies']">Compare</a>
+        </p>
+    </div>
+
+
+</div>
